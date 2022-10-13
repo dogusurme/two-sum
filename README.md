@@ -21,9 +21,6 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
  
 
-Constraints:
+Solution Output:
 
-2 <= nums.length <= 104
--109 <= nums[i] <= 109
--109 <= target <= 109
-Only one valid answer exists.
+![image](https://user-images.githubusercontent.com/72740694/195580349-e03a640d-bd56-4b53-b0db-55dd85ca295f.png)
